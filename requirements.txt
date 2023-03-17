@@ -1,0 +1,10 @@
+cryptography==38.0.0
+pyOpenSSL
+aiortc
+numpy
+opencv-python-headless
+pydub
+mediapipe
+streamlit
+streamlit_webrtc
+streamlit-nested-layout
